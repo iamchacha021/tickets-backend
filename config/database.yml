@@ -81,6 +81,4 @@ test:
 #
 production:
   <<: *default
-  database: ticket_backend_production
-  username: ticket_backend
-  password: <%= ENV["TICKET_BACKEND_DATABASE_PASSWORD"] %>
+  url: <%= ENV['DATABASE_URL'] %>
