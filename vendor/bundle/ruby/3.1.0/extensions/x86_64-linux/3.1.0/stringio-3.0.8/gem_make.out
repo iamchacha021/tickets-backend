@@ -1,0 +1,15 @@
+current directory: /home/chacha/Development/code/projects/kira-ticket/ticket-backend/vendor/bundle/ruby/3.1.0/gems/stringio-3.0.8/ext/stringio
+/usr/share/rvm/rubies/ruby-3.1.2/bin/ruby -I /usr/share/rvm/rubies/ruby-3.1.2/lib/ruby/site_ruby/3.1.0 extconf.rb
+creating Makefile
+
+current directory: /home/chacha/Development/code/projects/kira-ticket/ticket-backend/vendor/bundle/ruby/3.1.0/gems/stringio-3.0.8/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20230912-9374-x6hs5k sitelibdir\=./.gem.20230912-9374-x6hs5k clean
+
+current directory: /home/chacha/Development/code/projects/kira-ticket/ticket-backend/vendor/bundle/ruby/3.1.0/gems/stringio-3.0.8/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20230912-9374-x6hs5k sitelibdir\=./.gem.20230912-9374-x6hs5k
+compiling stringio.c
+linking shared-object stringio.so
+
+current directory: /home/chacha/Development/code/projects/kira-ticket/ticket-backend/vendor/bundle/ruby/3.1.0/gems/stringio-3.0.8/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20230912-9374-x6hs5k sitelibdir\=./.gem.20230912-9374-x6hs5k install
+/bin/install -m 0755 stringio.so ./.gem.20230912-9374-x6hs5k
